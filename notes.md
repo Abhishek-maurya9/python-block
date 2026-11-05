@@ -200,17 +200,6 @@ random.random()
 random.randint(a,b)
 random.randrange(start, stop, step)
 ```
-### VIRTUAL ENV
-`Create`
-This will create a virtual environment.
-```"python -m venv name"```
-
-`Activate`
-Inside the env folder structure run activate inside Script.
-`name/Scripts/activate`
-
-`Deactivate`
-In virtual environment CLI just type <b>deactivate</b>.
 
 ### FILE HANDLING
 `open`
