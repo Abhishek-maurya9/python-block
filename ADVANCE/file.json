@@ -1,0 +1,15 @@
+{
+    "age": 20,
+    "name": "abhi",
+    "id": 101,
+    "skill": [
+        "blockchain",
+        "AI",
+        "ML"
+    ],
+    "dev": {
+        "ML dev": 5,
+        "AI dev": 6,
+        "QA dev": 7
+    }
+}
